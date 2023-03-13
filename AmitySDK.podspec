@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
     s.swift_version = "5"
     s.ios.deployment_target  = '13.0'
     s.vendored_frameworks = 'Frameworks/AmitySDK.xcframework'
-    s.dependency 'RealmSwift', '10.32.2'
+    s.dependency 'RealmSwift', '10.37.0'
 end
